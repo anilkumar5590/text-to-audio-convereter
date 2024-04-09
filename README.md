@@ -27,7 +27,7 @@ This is a simple Text-Audio Converter web application that allows users to conve
 - script.js: Implements the functionality for text-to-speech conversion.
   
 ## Preview
-[Checkout Here] (https://anilkumar5590.github.io/text-to-audio-convereter/)
+[Checkout Here](https://anilkumar5590.github.io/text-to-audio-convereter/)
 
 ## 🔗 Follow us
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/anilkumarkonathala)
